@@ -6,9 +6,10 @@
   <species>Emperor</species>
   <height>0.3m</height>
   <cousins>
-    <cousin id=1>King</cousin>
-    <cousin id=2>Adelie</cousin>
-  <cousins>
+    <cousin id="1">King</cousin>
+    <cousin id="2">Adelie</cousin>
+  </cousins>
 </penguin>
+
 
 
